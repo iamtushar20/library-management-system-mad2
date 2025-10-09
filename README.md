@@ -1,7 +1,9 @@
 # Library Management System (Frontend & Backend)
 
 ## Description
-The **Library Management System** is a full-stack web application designed to manage an online library. The system provides functionality for both **administrators** and **users**. Administrators can manage books and sections through CRUD operations, while users can browse, read, request, or purchase books. The application supports authentication, user management, and search functionality.
+The **Library Management System** is a full-stack web application designed to streamline the management of an online library. It supports **role-based access**, allowing **administrators** to manage sections and e-books through CRUD operations, monitor issued books, and generate activity reports.  
+
+**Users** can browse, search, request, read, or purchase e-books, provide feedback, and track their borrowing history. The system includes secure authentication, user management, scheduled alerts, and reporting features, ensuring an efficient and user-friendly library experience.
 
 ---
 
