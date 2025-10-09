@@ -93,5 +93,3 @@ Watch the demonstration of the project here:
 
 ---
 
-## Folder Structure
-
